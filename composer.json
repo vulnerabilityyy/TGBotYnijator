@@ -1,0 +1,9 @@
+{
+    "name": "TelegramUserBot",
+    "autoload": {
+        "psr-4": {
+            "utils\\": "src/utils/",
+            "event\\": "src/event/"
+        }
+    }
+}
